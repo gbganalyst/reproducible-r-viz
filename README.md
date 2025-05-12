@@ -62,18 +62,18 @@ In this assignment, you’ll practice collaborative workflows using Git and GitH
    * **Image**: Export your plot as
 
      ```
-     visual-image/<yourname>-plot.png
+     visual-images/<yourname>-plot.png
      ```
    * **Script**: Save your R code as
 
      ```
-     script/<yourname>-script.R
+     scripts/<yourname>-script.R
      ```
 
 6. **Commit and push**
 
    ```bash
-   git add visual-image/<yourname>-plot.png script/<yourname>-visualisation.R
+   git add visual-images/<yourname>-plot.png scripts/<yourname>-visualisation.R
    git commit -m "Add visualisation and script for <dataset filename>"
    git push origin feature/<yourname>-viz
    ```
