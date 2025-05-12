@@ -49,7 +49,8 @@ In this assignment, you’ll practice collaborative workflows using Git and GitH
 
 3. **Choose and load your data**
 
-   * Browse the Drive folder and select any dataset.
+   * Browse the Google Drive folder and select any dataset.
+   * Download it and save it in the `data/` directory of `reproducible-r-viz` project repo.
    * Load it into R and explore its structure.
 
 4. **Create your plot**
