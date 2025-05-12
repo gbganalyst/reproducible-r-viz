@@ -27,10 +27,10 @@ In this assignment, you’ll practice collaborative workflows using Git and GitH
 ## Resources
 
 * **Google Drive datasets**
-  [https://drive.google.com/drive/folders/1ZhI-t94uZa82KD8hEN0f1WALfCiRFWCP?usp=drive\_link](https://drive.google.com/drive/folders/1ZhI-t94uZa82KD8hEN0f1WALfCiRFWCP?usp=drive_link)
+  <https://drive.google.com/drive/folders/1ZhI-t94uZa82KD8hEN0f1WALfCiRFWCP?usp=drive_link>
 
 * **Shared GitHub repository**
-  [https://github.com/gbganalyst/data-viz1](https://github.com/gbganalyst/reproducible-r-viz)
+  <https://github.com/gbganalyst/reproducible-r-viz>
 
 ## Assignment Steps
 
@@ -38,7 +38,7 @@ In this assignment, you’ll practice collaborative workflows using Git and GitH
 
    ```bash
    git clone https://github.com/gbganalyst/reproducible-r-viz.git
-   cd data-viz1
+   cd reproducible-r-viz.git
    ```
 
 2. **Create a feature branch**
@@ -101,8 +101,8 @@ In this assignment, you’ll practice collaborative workflows using Git and GitH
 
 * A merged PR containing:
 
-  * `visual-image/<yourname>-plot.png`
-  * `script/<yourname>-visualisation.R`
+  * `visual-images/<yourname>-plot.png`
+  * `scripts/<yourname>-visualisation.R`
 * Evidence of at least one review comment on a peer’s PR.
 
 ## Assessment Criteria
